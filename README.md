@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Kenshin
+# Hi there 👋, my name is Kenshin
 #### 👨‍💻 Junior Developer | JavaScript Enthusiast | Wannabe Hacker
 
 🌟 About Me 🌟
