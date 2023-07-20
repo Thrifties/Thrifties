@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Kenshin
 #### 👨‍💻 Junior Developer | JavaScript Enthusiast | Wannabe Hacker
-![👨‍💻 Junior Developer | JavaScript Enthusiast | Wannabe Hacker]
 
 🌟 About Me 🌟
 
