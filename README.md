@@ -1,6 +1,6 @@
 # Kenshin Sayson
 
-** Junior Developer | Technical Support | Wannabe Hacker **
+`Junior Developer | Technical Support | Wannabe Hacker`
 
 🌟 About Me 🌟
 
