@@ -12,7 +12,7 @@ I really believe in the value of lifelong learning, and one of my favorite resou
 
 ---
 
-## 🧰 Tools and Skills
+### 🧰 Tools and Skills
 
 <img align="left" alt="Java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="Java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -30,6 +30,6 @@ I really believe in the value of lifelong learning, and one of my favorite resou
 <img align="left" alt="Java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
 <br/>
 
-## 📊 Github Stats
+### 📊 Github Stats
           
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thrifties&theme=github_dark_dimmed&show_icons=true)
