@@ -12,8 +12,7 @@ I really believe in the value of lifelong learning, and one of my favorite resou
 
 ---
 
-### 🧰 Tools and Skills
-
+## 🧰 Tools and Skills
 
 <img align="left" alt="Java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="Java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -29,10 +28,9 @@ I really believe in the value of lifelong learning, and one of my favorite resou
 <img align="left" alt="Java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 <img align="left" alt="Java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
 <img align="left" alt="Java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-          
-          
-          
 
+---
 
-
+## 📊 Github Stats
+          
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thrifties&show_icons=true)  
