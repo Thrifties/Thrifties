@@ -10,10 +10,6 @@ Kenshin here, a dedicated software engineer and issue-solver. When I was young, 
 
 I really believe in the value of lifelong learning, and one of my favorite resources for finding and participating in open-source projects is GitHub. I'm excited to impart my experience and pick up knowledge from the bright brains in this thriving community.
 
-
----
-
-
 ## 🧰 Tools and Skills
 
 <img align="left" alt="Java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -31,10 +27,6 @@ I really believe in the value of lifelong learning, and one of my favorite resou
 <img align="left" alt="Java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
 <img align="left" alt="Java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
 <br/>
-
-
----
-
 
 ## 📊 Github Stats
           
